@@ -1,0 +1,11 @@
+Revision history for Perl extension Acme::Note.
+
+    $Id: Changes 560 2006-07-17 16:52:16Z me $
+
+0.2  Tue Aug 22 2006, ??:?? -0300 
+        - now I've got it right (Test::More::use_ok works and so
+          does Test::Pod::Coverage, doh)
+
+0.1  Mon Aug 21 2006, 17:34 -0300
+        - original version
+        - first (hasty) release to CPAN
