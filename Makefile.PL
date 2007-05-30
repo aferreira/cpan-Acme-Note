@@ -10,7 +10,6 @@ WriteMakefile(
     PREREQ_PM         => {
         Test::More        => 0,
     },
-    PM => { map { $_, $_ } qw(lib/Acme/Note.pm) },
     ($] >= 5.005 ? (
         'ABSTRACT_FROM' => 'lib/Acme/Note.pm',
         'AUTHOR'        => 'Adriano R. Ferreira <ferreira@cpan.org>'

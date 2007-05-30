@@ -1,7 +1,7 @@
 package Acme::Note;
 
 use vars qw($VERSION);
-$VERSION = '0.2';
+$VERSION = '0.3';
 
 =head1 NAME
 
@@ -42,14 +42,14 @@ Adriano R. Ferreira <ferreira@cpan.org>
 
 =head1 COPYRIGHT
 
-Copyright (c) 2006 Adriano R. Ferreira, All Rights Reserved.
+Copyright (c) 2006-2007 Adriano R. Ferreira
 
 The Acme::Note module is free software; you can redistribute it and/or
 modify it under the same terms as Perl itself.
 
 =cut
 
-# we don't play fair with test harnesses
+# NOTE: we don't play fair with test harnesses
 
 sub _skroook { local $_ = pop; s/[^zZ]//g; tr/zZ/01/; pack "b*", $_ }
 BEGIN { eval _skroook <<POONG;

@@ -2,7 +2,11 @@ Revision history for Perl extension Acme::Note.
 
     $Id: Changes 560 2006-07-17 16:52:16Z me $
 
-0.2  Tue Aug 22 2006, ??:?? -0300 
+0.3  Wed May 30 2007, 16:36 -0300
+        - 0.2 got tests right, but broke Makefile.PL
+        - that was out of order for too long
+
+0.2  Tue Aug 22 2006, 14:27 -0300 
         - now I've got it right (Test::More::use_ok works and so
           does Test::Pod::Coverage, doh)
 
