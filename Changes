@@ -2,6 +2,10 @@ Revision history for Perl extension Acme::Note.
 
     $Id: Changes 560 2006-07-17 16:52:16Z me $
 
+0.4  Thu May 31 2007, 16:32 -0300
+        - now dist has a README (thanks to Pod::Readme)
+        - now Acme::Note uses strict
+
 0.3  Wed May 30 2007, 16:36 -0300
         - 0.2 got tests right, but broke Makefile.PL
         - that was out of order for too long

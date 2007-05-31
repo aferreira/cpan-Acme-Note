@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:                Acme-Note
-version:             0.3
+version:             0.4
 abstract:            Make a mental note for programming style
 license:             perl
 generated_by:        ExtUtils::MakeMaker version 6.32

@@ -1,7 +1,9 @@
 package Acme::Note;
 
+use strict; # CPANTS made me do it!
+
 use vars qw($VERSION);
-$VERSION = '0.3';
+$VERSION = '0.4';
 
 =head1 NAME
 
