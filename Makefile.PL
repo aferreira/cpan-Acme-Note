@@ -8,6 +8,8 @@ WriteMakefile(
     NAME              => 'Acme::Note',
     VERSION_FROM      => 'lib/Acme/Note.pm',
     PREREQ_PM         => {
+        Term::ANSIColor   => 0,
+
         Test::More        => 0,
     },
     ($] >= 5.005 ? (

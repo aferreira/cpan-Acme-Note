@@ -6,6 +6,7 @@ README
 
 lib/Acme/Note.pm
 t/01_use.t
+t/02_color.t
 t/98_pod-coverage.t
 t/99_pod.t
 META.yml                                 Module meta-data (added by MakeMaker)

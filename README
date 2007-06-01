@@ -1,3 +1,6 @@
+Acme-Note version 0.5
+=====================
+
 NAME
     Acme::Note - Make a mental note for programming style
 
@@ -8,6 +11,7 @@ SYNOPSIS
     Or at command line
 
       perl -MAcme::Note script.pl
+      perl -MAcme::Note=:color script.pl
 
 DESCRIPTION
     Sometimes you just have to remember that odd little thing.
