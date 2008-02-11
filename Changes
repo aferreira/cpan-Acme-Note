@@ -1,6 +1,13 @@
 Revision history for Perl extension Acme::Note.
 
-    $Id: Changes 560 2006-07-17 16:52:16Z me $
+    $Id: /local/cpan/acme/Acme-Note/trunk/Changes 1926 2008-02-11T18:12:15.820616Z ferreira  $
+
+0.6  Mon Feb 11 2007, 15:33 -0200
+        - use warnings
+        - make all prereqs explicit
+        - don't hide the use of Term::ANSIColor
+        - require warnings::compat on pre-5.6 perls
+        - no real code change: idleness is an evil thing
 
 0.5  Fri Jun  1 2007, 09:07 -0300
         - now accepts an import tag :color (or :colour) and

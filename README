@@ -1,4 +1,4 @@
-Acme-Note version 0.5
+Acme-Note version 0.6
 =====================
 
 NAME
@@ -11,7 +11,7 @@ SYNOPSIS
     Or at command line
 
       perl -MAcme::Note script.pl
-      perl -MAcme::Note=:color script.pl
+      perl -MAcme::Note=:colour script.pl
 
 DESCRIPTION
     Sometimes you just have to remember that odd little thing.
@@ -35,7 +35,7 @@ MAINTAINER
     Adriano R. Ferreira <ferreira@cpan.org>
 
 COPYRIGHT
-    Copyright (c) 2006-2007 Adriano R. Ferreira
+    Copyright (c) 2006-2008 Adriano R. Ferreira
 
     The Acme::Note module is free software; you can redistribute it and/or
     modify it under the same terms as Perl itself.
