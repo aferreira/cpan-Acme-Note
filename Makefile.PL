@@ -16,7 +16,7 @@ WriteMakefile(
         'Test::More'      => 0,
     },
   ($] >= 5.005 ? (
-    ABSTRACT_FROM     => 'lib/Acme/Note.pm',
+    ABSTRACT_FROM     => 'lib/Acme/Note.pod',
     AUTHOR            => 'Adriano R. Ferreira <ferreira@cpan.org>'
   ) : ()),
   ($EUMM_VERSION >= 6.31 ? (

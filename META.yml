@@ -1,11 +1,11 @@
 --- #YAML:1.0
 name:                Acme-Note
-version:             0.6
+version:             0.7
 abstract:            Make a mental note for programming style
 license:             perl
 author:              
     - Adriano R. Ferreira <ferreira@cpan.org>
-generated_by:        ExtUtils::MakeMaker version 6.42
+generated_by:        ExtUtils::MakeMaker version 6.44
 distribution_type:   module
 requires:     
     strict:                        0

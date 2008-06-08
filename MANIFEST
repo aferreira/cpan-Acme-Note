@@ -5,6 +5,7 @@ Changes
 README
 
 lib/Acme/Note.pm
+lib/Acme/Note.pod
 t/01_use.t
 t/02_color.t
 t/98_pod-coverage.t

@@ -1,8 +1,13 @@
 Revision history for Perl extension Acme::Note.
 
-    $Id: /local/cpan/acme/Acme-Note/trunk/Changes 1926 2008-02-11T18:12:15.820616Z ferreira  $
+    $Id: /local/cpan/acme/Acme-Note/trunk/Changes 2450 2008-06-08T17:29:28.928652Z ferreira  $
 
-0.6  Mon Feb 11 2007, 15:33 -0200
+0.7  Sun Jun  8 2008, 14:19 -0300
+        - no code change
+        - more CPANTS whoreness
+        - POD has its own file now
+
+0.6  Mon Feb 11 2008, 15:33 -0200
         - use warnings
         - make all prereqs explicit
         - don't hide the use of Term::ANSIColor
