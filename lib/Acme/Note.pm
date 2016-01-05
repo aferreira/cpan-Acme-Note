@@ -4,7 +4,7 @@ use strict; # CPANTS made me do it!
 use warnings; # that too!
 
 use vars qw($VERSION);
-$VERSION = '0.7';
+$VERSION = '0.8';
 
 sub _colored {
   require Term::ANSIColor;

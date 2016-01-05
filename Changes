@@ -2,6 +2,10 @@ Revision history for Perl extension Acme::Note.
 
     $Id: /local/cpan/acme/Acme-Note/trunk/Changes 2450 2008-06-08T17:29:28.928652Z ferreira  $
 
+0.8  Mon Jan  4 2016
+        - no code change
+        - modernize Makefile.PL
+
 0.7  Sun Jun  8 2008, 14:19 -0300
         - no code change
         - more CPANTS whoreness
