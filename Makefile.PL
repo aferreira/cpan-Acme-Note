@@ -28,5 +28,13 @@ WriteMakefile(
               . "dynamic_config: 1"
           )
     : ()),
+    ($EUMM_VERSION > 6.4501 ? (
+            META_MERGE => {
+                resources => {
+                    repository => 'http://github.com/aferreira/cpan-Acme-Note',
+                }
+            },
+          )
+    : () ),
 
 );
